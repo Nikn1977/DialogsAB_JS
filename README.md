@@ -4,3 +4,5 @@ Elektroniska klade par JavaScript
 1. 16.10.2024 Sakums - ka stradat ar e-vide
 - Lokalo failu tst un html veidošana
 - Github.com eksperementešana ar Readme.md
+- E-Vide link : [https://e-vide.dialogs-ab.lv/]
+- 
