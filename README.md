@@ -3,6 +3,7 @@ Elektroniska klade par JavaScript
 ## JavaScript Kurss
 **1. 16.10.2024 Sakums - ka stradat ar e-vide** :+1:
 
+Ka strdada saitu atveršana
 ![Internet site requests](https://www.interviewbit.com/blog/wp-content/uploads/2022/06/Client-Server-Architecture-working-1024x800.png)
 > [!NOTE]
 >- Lokalo failu tst un html veidošana
