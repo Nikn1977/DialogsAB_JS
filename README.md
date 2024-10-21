@@ -2,7 +2,9 @@
 Elektroniska klade par JavaScript
 ## JavaScript Kurss
 **1. 16.10.2024 Sakums - ka stradat ar e-vide** :+1:
+
 ![Internet site requests](https://www.interviewbit.com/blog/wp-content/uploads/2022/06/Client-Server-Architecture-working-1024x800.png)
+> [!NOTE]
 >- Lokalo failu tst un html veidošana
 >- Github.com eksperementešana ar Readme.md
 >- ***E-Vide link : [https://e-vide.dialogs-ab.lv/]***
@@ -12,9 +14,10 @@ Elektroniska klade par JavaScript
 >- ***A small place to discover languages in GitHub : https://madnight.github.io/githut/#/pull_requests/2024/1***
 >- ***What is JavaScript? : https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript***
 
-- [***Visual Studio Code Downloads***]( https://code.visualstudio.com/)
-- [***GIT Downloads***](https://git-scm.com/downloads)
-
+| Downloads |
+| --- |
+| [***Visual Studio Code Downloads***]( https://code.visualstudio.com/) 
+| [***GIT Downloads***](https://git-scm.com/downloads) |
 
 **2. 21.10.2024 Programešanas sakums**
 >- 
