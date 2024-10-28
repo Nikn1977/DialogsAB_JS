@@ -1,1 +1,2 @@
-console.log("2. izdruka no head daļas script1.js");
+date2=Date.now();
+console.log("2. izdruka no head daļas laika momentā - "+date2+" ms - script1.js");
