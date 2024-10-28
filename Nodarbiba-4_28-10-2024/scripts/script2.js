@@ -1,0 +1,1 @@
+console.log("4. izdruka no body daļas script2.js");
