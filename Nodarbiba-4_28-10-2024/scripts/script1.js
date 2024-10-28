@@ -1,0 +1,1 @@
+console.log("2. izdruka no head daļas script1.js");
