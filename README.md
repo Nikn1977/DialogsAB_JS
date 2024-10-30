@@ -48,10 +48,10 @@ Ka strdada saitu atveršana
 >- Pameginat uztaisit izmaiņas no VSC un no Github lai parliecinaties ka sinhronizacija notiek uz abam pusem.
 >- **Links:**
 >- - ***Object Models in JavaScript : https://www.javascripttutorial.net/javascript-dom/document-object-model-in-javascript***
->  - ***HTML Tutorial : https://www.w3schools.com/html/default.asp***
->  - ***CSS Tutorial : https://www.w3schools.com/css/default.asp***
->  - ***HTML Exercises : https://www.w3schools.com/html/html_exercises.asp***
->  - ***JavaScript Where To : https://www.w3schools.com/js/js_whereto.asp***
+>-  - ***HTML Tutorial : https://www.w3schools.com/html/default.asp***
+>-  - ***CSS Tutorial : https://www.w3schools.com/css/default.asp***
+>-  - ***HTML Exercises : https://www.w3schools.com/html/html_exercises.asp***
+>-  - ***JavaScript Where To : https://www.w3schools.com/js/js_whereto.asp***
 
 **3. 23.10.2024 Programešana**
 >- Styles(CSS)
@@ -69,6 +69,8 @@ Ka strdada saitu atveršana
 >- ASCII code tabel
 <img src="http://www.ecowin.org/aulas/resources/tables/asciitable.jpg" width="1050" height="742">
 
+>- - ***Krasas : https://www.w3schools.com/colors***
+>- - ***Krasas2 : : https://www.w3schools.com/colors/colors_picker.asp***
 >- Pirmie soļi programešanā no browser Console
 >- CTRL+Shift+J
 >
