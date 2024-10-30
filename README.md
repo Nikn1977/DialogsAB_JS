@@ -21,5 +21,12 @@ Ka strdada saitu atveršana
 | [***GIT Downloads***](https://git-scm.com/downloads) |
 
 **2. 21.10.2024 Programešanas sakums**
->- 
+>- GIT software installation
+>- Visual Studio Code Installation
+>- Parbaudit vai Environment variablē zem "Path" eksiste ieraksts "C:\Progeam Files\Git\cmd"
+>- Palaist Git.cmd un sakonfiguret talakai darbibai lai noklonet GitHUB Repository uz lokalu darbastaciju:
+>- - Command - "git config --list"
+>  - Command - "git config --global user.name "Nikn1977"
+>  - Command - "git config --global user.nemail "nikn13@inbox.lv"
+>  - Command - "git config --list
 
