@@ -31,7 +31,7 @@ Ka strdada saitu atveršana
 >-  - Command - "git config --list
 
 <img
-      src="./Nodarbiba-2_21-10-2024/GitConfigList.jpg"
+      src="./Nodarbiba-2_21-10-2024/GitConfigList.JPG"
       width="200"
       height="200"
     />
