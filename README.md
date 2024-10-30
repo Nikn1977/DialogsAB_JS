@@ -65,4 +65,14 @@ Ka strdada saitu atveršana
       height="100"
     />
 >- Izveidojam "index.html" failu, ierakstijam konfiguraciju lai notestet dažadas stilus no style.css
->- Visual Studio Code - Start LiveServer opciju, lai index.html fails butu palaist no iebuveta "web servera" kas iespejams ar LiveServer opcijua
+>- Visual Studio Code - Start LiveServer opciju, lai index.html fails butu palaist no iebuveta "web servera" kas iespejams ar LiveServer opciju
+>
+<img src="http://www.ecowin.org/aulas/resources/tables/asciitable.jpg" width="1050" height="742">
+>- Pirmie soļi programešanā no browser Console
+>- CTRL+Shift+J
+
+
+
+
+
+
