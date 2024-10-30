@@ -80,6 +80,13 @@ Ka strdada saitu atveršana
 
 >- Pirmie soļi programešanā no index.html faila
 >- - <script> console.log("Hello World!)"; </script>
+>
+<img
+      src="./Nodarbiba-3_23-10-2024/HelloWorld.JPG"
+      width="1200"
+      height="500"
+    />
+
 
 
 
