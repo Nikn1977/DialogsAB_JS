@@ -107,9 +107,13 @@ Ka strdada saitu atveršana
 </br>
 </br>
 
-
 **4. 26.10.2024 Programešana**
-
+>- JavaScript:
+>- - date = Date.now()
+>- - date = new Date()
+>- - console.log()
+>- - "text1" + some_variable + "text2"
+>- - `text1 ${some_variable} text2`
 </br>
 </br>
 
