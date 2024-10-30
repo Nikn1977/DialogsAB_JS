@@ -1,7 +1,9 @@
 # DialogsAB_JS
 Elektroniska klade par JavaScript
 ## JavaScript Kurss
+
 **1. 16.10.2024 Sakums - ka stradat ar e-vide** :+1:
+
 
 Ka strdada saitu atveršana
 ![Internet site requests](https://www.interviewbit.com/blog/wp-content/uploads/2022/06/Client-Server-Architecture-working-1024x800.png)
@@ -20,6 +22,9 @@ Ka strdada saitu atveršana
 | --- |
 | [***Visual Studio Code Downloads***]( https://code.visualstudio.com/) 
 | [***GIT Downloads***](https://git-scm.com/downloads) |
+
+</br>
+</br>
 
 **2. 21.10.2024 Programešana**
 >- GIT software installation
@@ -53,6 +58,10 @@ Ka strdada saitu atveršana
 >-  - ***HTML Exercises : https://www.w3schools.com/html/html_exercises.asp***
 >-  - ***JavaScript Where To : https://www.w3schools.com/js/js_whereto.asp***
 
+</br>
+</br>
+
+
 **3. 23.10.2024 Programešana**
 >- Styles(CSS)
 >- - uz objektu(Inline CSS)
@@ -79,7 +88,9 @@ Ka strdada saitu atveršana
       width="1200"
       height="500"
     />    
-
+>- JavaScript:
+>- - console.log
+>  - typeof()
 >- Pirmie soļi programešanā no index.html faila
 >- - <script> console.log("Hello World!)"; </script>
 >
@@ -89,10 +100,20 @@ Ka strdada saitu atveršana
       height="500"
     />
 
+>- ***Majas darbs - parbaudit JSREF operatorus : https://www.w3schools.com/jsref/jsref_operators.asp***
+>- ***JavaScript Gramata : https://goalkicker.com/JavaScriptBook/***
+</br>
+
+</br>
+</br>
 
 
+**4. 26.10.2024 Programešana**
 
+</br>
+</br>
 
+**5. 30.10.2024 Programešana-Arrays**
 
 
 
