@@ -59,7 +59,7 @@ Ka strdada saitu atveršana
 >- - uz objektiem locali(Internal CSS)
 >- - uz objectiem no areja faila(External CSS)
 <img
-      src="./Nodarbiba-3_23-10-2024/Styles.JPG"
+      src="./Nodarbiba-3_23-10-2024/ExtStyles.JPG"
       width="800"
       height="600"
     />
