@@ -66,16 +66,20 @@ Ka strdada saitu atveršana
     />
 >- Izveidojam "index.html" failu, ierakstijam konfiguraciju lai notestet dažadas stilus no style.css
 >- Visual Studio Code - Start LiveServer opciju, lai index.html fails butu palaist no iebuveta "web servera" kas iespejams ar LiveServer opciju
->
+>- ASCII code tabel
 <img src="http://www.ecowin.org/aulas/resources/tables/asciitable.jpg" width="1050" height="742">
+
 >- Pirmie soļi programešanā no browser Console
 >- CTRL+Shift+J
 >
 <img
       src="./Nodarbiba-3_23-10-2024/WebConsole.JPG"
-      width="600"
-      height="100"
+      width="1200"
+      height="500"
     />    
+
+>- Pirmie soļi programešanā no index.html faila
+>- - <script> console.log("Hello World!)"; </script>
 
 
 
