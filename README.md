@@ -21,7 +21,7 @@ Ka strdada saitu atveršana
 | [***Visual Studio Code Downloads***]( https://code.visualstudio.com/) 
 | [***GIT Downloads***](https://git-scm.com/downloads) |
 
-**2. 21.10.2024 Programešanas sakums**
+**2. 21.10.2024 Programešana**
 >- GIT software installation
 >- Visual Studio Code Installation
 >- Parbaudit vai Environment variablē zem "Path" eksiste ieraksts "C:\Progeam Files\Git\cmd"
@@ -52,3 +52,14 @@ Ka strdada saitu atveršana
 >  - ***CSS Tutorial : https://www.w3schools.com/css/default.asp***
 >  - ***HTML Exercises : https://www.w3schools.com/html/html_exercises.asp***
 >  - ***JavaScript Where To : https://www.w3schools.com/js/js_whereto.asp***
+
+**3. 23.10.2024 Programešana**
+>- Styles(CSS)
+>- - uz objektu(Inline CSS)
+>- - uz objektiem locali(Internal CSS)
+>- - uz objectiem no areja faila(External CSS)
+<img
+      src="./Nodarbiba-3_23-10-2024/Styles.JPG"
+      width="800"
+      height="600"
+    />
