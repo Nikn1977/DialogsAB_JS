@@ -14,6 +14,7 @@ Ka strdada saitu atveršana
 >- ***So, how does the Internet work? : https://www.linkedin.com/pulse/20141113001150-27608683-so-how-does-the-internet-work***
 >- ***A small place to discover languages in GitHub : https://madnight.github.io/githut/#/pull_requests/2024/1***
 >- ***What is JavaScript? : https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript***
+>- ***How to work with Github : https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax***
 
 | Downloads |
 | --- |
@@ -32,7 +33,22 @@ Ka strdada saitu atveršana
 
 <img
       src="./Nodarbiba-2_21-10-2024/GitConfigList.JPG"
-      width="200"
-      height="200"
+      width="800"
+      height="600"
     />
-
+>- Atvert Virtual Studio Code un Uzinstalet Extensions:
+>- - Prettier-Code Formatter
+>- - Github Repositories
+>- - GitHub Pull Request
+>- - Remote Repositories
+>- - Live Server
+>- Kad Extensions bus uzinstaleti, vajag uztaisit Sign In
+>- Nospiest "F1" un atrast commandu "git clone"
+>- Palaist commandu, izvelieties Github Repositories un noradit kur lokali tas vajag saglabat
+>- Pameginat uztaisit izmaiņas no VSC un no Github lai parliecinaties ka sinhronizacija notiek uz abam pusem.
+>- **Links:**
+>- - ***Object Models in JavaScript : https://www.javascripttutorial.net/javascript-dom/document-object-model-in-javascript***
+>  - ***HTML Tutorial : https://www.w3schools.com/html/default.asp***
+>  - ***CSS Tutorial : https://www.w3schools.com/css/default.asp***
+>  - ***HTML Exercises : https://www.w3schools.com/html/html_exercises.asp***
+>  - ***JavaScript Where To : https://www.w3schools.com/js/js_whereto.asp***
