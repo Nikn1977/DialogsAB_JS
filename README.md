@@ -70,6 +70,14 @@ Ka strdada saitu atveršana
 <img src="http://www.ecowin.org/aulas/resources/tables/asciitable.jpg" width="1050" height="742">
 >- Pirmie soļi programešanā no browser Console
 >- CTRL+Shift+J
+>
+<img
+      src="./Nodarbiba-3_23-10-2024/WebConsole.JPG"
+      width="600"
+      height="100"
+    />    
+
+
 
 
 
