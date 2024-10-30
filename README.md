@@ -58,8 +58,11 @@ Ka strdada saitu atveršana
 >- - uz objektu(Inline CSS)
 >- - uz objektiem locali(Internal CSS)
 >- - uz objectiem no areja faila(External CSS)
+>
 <img
-      src="./Nodarbiba-3_23-10-2024/ExtStyles.JPG"
-      width="800"
-      height="600"
+      src="./Nodarbiba-3_23-10-2024/ExtSyles.JPG"
+      width="600"
+      height="100"
     />
+>- Izveidojam "index.html" failu, ierakstijam konfiguraciju lai notestet dažadas stilus no style.css
+>- Visual Studio Code - Start LiveServer opciju, lai index.html fails butu palaist no iebuveta "web servera" kas iespejams ar LiveServer opcijua
