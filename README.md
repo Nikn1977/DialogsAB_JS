@@ -29,4 +29,9 @@ Ka strdada saitu atveršana
 >  - Command - "git config --global user.name "Nikn1977"
 >  - Command - "git config --global user.nemail "nikn13@inbox.lv"
 >  - Command - "git config --list
+<img
+      src="./Nodarbiba-2_21-10-2024/GitConfigList.jpg"
+      width="200"
+      height="200"
+    />
 
