@@ -124,7 +124,7 @@ Ka strdada saitu atveršana
 **7. 06.11.2024 “Pusdienlaika” uzdevumi**
 
 ***HTML Tutorial : ./_Uzdevums2-If-While/index.html***
-
+<a href="https://Nikn1977.github.io/DialogsAB_JS/about.html" title="About Me">About Me</a>
 
 **7. 06.11.2024 Programešana-Funkcijas**
 
