@@ -119,6 +119,15 @@ Ka strdada saitu atveršana
 
 **5. 30.10.2024 Programešana-Arrays**
 
+**6. 30.10.2024 Programešana-Arrays**
+
+**7. 06.11.2024 “Pusdienlaika” uzdevumi**
+
+>- ***HTML Tutorial : https://www.w3schools.com/html/***
+
+**7. 06.11.2024 Programešana-Funkcijas**
+
+
 
 
 
