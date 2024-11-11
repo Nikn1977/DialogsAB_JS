@@ -123,7 +123,8 @@ Ka strdada saitu atveršana
 
 **7. 06.11.2024 “Pusdienlaika” uzdevumi**
 
->- ***HTML Tutorial : _Uzdevums2-If-While/index.html***
+***HTML Tutorial : ./_Uzdevums2-If-While/index.html***
+
 
 **7. 06.11.2024 Programešana-Funkcijas**
 
