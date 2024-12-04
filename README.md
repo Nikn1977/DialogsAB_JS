@@ -119,6 +119,15 @@ Ka strdada saitu atveršana
 
 **5. 30.10.2024 Programešana-Arrays**
 
+**6. 30.10.2024 Programešana-Arrays**
+
+**7. 06.11.2024 “Pusdienlaika” uzdevumi**
+
+*** “Pusdienlaika” uzdevumi : [[https://github.com/Nikn1977/DialogsAB_JS/edit/main/_Uzdevums2-If-While/index.html](https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/_Uzdevums2-If-While/index.html)]***
+
+**7. 06.11.2024 Programešana-Funkcijas**
+
+
 
 
 
