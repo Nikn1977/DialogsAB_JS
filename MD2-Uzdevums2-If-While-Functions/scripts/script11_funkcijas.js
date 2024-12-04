@@ -30,9 +30,9 @@ function count(Nsak,Nbeig,Kas) {
 }
 
 
-count(1,40,"all");
-count(1,40,"odd");
-count(1,40,"even");
+count(1,30,"all");
+count(1,30,"odd");
+count(1,30,"even");
 
 /*function view2(Nsak2,Nbeig2,Kas2,exclud){
   Return exclud[];
