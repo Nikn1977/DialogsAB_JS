@@ -119,16 +119,17 @@ Ka strdada saitu atveršana
 
 **5. 30.10.2024 Programešana-Arrays**
 
-**6. 30.10.2024 Programešana-Arrays**
-
-**7. 06.11.2024 “Pusdienlaika” uzdevumi**
->-  *** “Pusdienlaika” uzdevumi : [[https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html](https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html)]***
-
->-  *** “Pusdienlaika” uzdevumi ar Funkcijas palidzibu: [[https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html](https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html)]***
+**6. 30.10.2024 Programešana-Arrays, IF, WSwitch, While**
 
 **7. 06.11.2024 Programešana-Funkcijas**
 
-https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html
+**“Pusdienlaika” uzdevumi**
+>-  *** “Pusdienlaika” uzdevumi : [https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html]***
+>-  *** “Pusdienlaika” uzdevumi ar Funkcijas palidzibu: [https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html]***
 
+**8. 11.11.2024 Programešana-Funkcijas**
 
+**10. 25.11.2024 JavaScript Display Objects and Object Constructors **
+>- *** JavaScript Display Objects: [https://www.w3schools.com/js/js_object_display.asp/]***
+>- *** JavaScript Object Constructors : [https://www.w3schools.com/js/js_object_constructors.asp/]***
 
