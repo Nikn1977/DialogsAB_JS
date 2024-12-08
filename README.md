@@ -151,3 +151,51 @@ Ka strdada saitu atveršana
 >- ***Section 3. Traversing elements, child: https://www.javascripttutorial.net/javascript-dom/javascript-get-child-element/***
 >- ***Section 3. Traversing elements, an element: https://www.javascripttutorial.net/javascript-dom/javascript-siblings/***
 >- ***Section 4. Manipulating elements***
+>- - createElemen(): (https://www.javascripttutorial.net/javascript-dom/javascript-createelement/)
+>- - appendChild(): (https://www.javascripttutorial.net/javascript-dom/javascript-appendchild/)
+>  - textContent: (https://www.javascripttutorial.net/javascript-dom/javascript-textcontent/)
+>  - innerHTML: (https://www.javascripttutorial.net/javascript-dom/javascript-innerhtml/)
+>  - DocumentFragment: (https://www.javascripttutorial.net/javascript-dom/javascript-documentfragment/)
+>  - after(): (https://www.javascripttutorial.net/javascript-dom/javascript-after/)
+>  - append(): (https://www.javascripttutorial.net/javascript-dom/javascript-append/)
+>  - prepend(): (https://www.javascripttutorial.net/javascript-dom/javascript-prepend/)
+>  - replaceChild(): (https://www.javascripttutorial.net/javascript-dom/javascript-replacechild/)
+>  - cloneNode(): (https://www.javascripttutorial.net/javascript-dom/javascript-clonenode/)
+>  - removeChild(): (https://www.javascripttutorial.net/javascript-dom/javascript-removechild/)
+>  - insertBefore: (https://www.javascripttutorial.net/javascript-dom/javascript-insertbefore/)
+>  - insertAfter: (https://www.javascripttutorial.net/javascript-dom/javascript-insertafter/)
+>- ***Section 5. Working with Attributes***
+>  - setAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-setattribute/)
+>  - getAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-getattribute/)
+>  - removeAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-removeattribute/)
+>  - hasAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-hasattribute/)
+
+> **14. 09.12.2024 JavaScript DOM**   
+>- ***Section 6. Manipulating Element’s Styles***
+>  -  inline styles: (https://www.javascripttutorial.net/javascript-dom/javascript-style/)
+>  -  getComputedStyle(): (https://www.javascripttutorial.net/javascript-dom/javascript-getcomputedstyle/)
+>  -  className: (https://www.javascripttutorial.net/javascript-dom/javascript-classname/)
+>  -  classList property: (https://www.javascripttutorial.net/javascript-dom/javascript-classlist/)
+>  -  Width and Height of an Element: (https://www.javascripttutorial.net/javascript-dom/javascript-width-height/)
+>- ***Section 7. Working with Events***
+>- -  JavaScript events: (https://www.javascripttutorial.net/javascript-dom/javascript-events/)
+>  -  Handling Events: (https://www.javascripttutorial.net/javascript-dom/handling-events-in-javascript/)
+>  -  Load Events: (https://www.javascripttutorial.net/javascript-dom/javascript-page-load-events/)
+>  -  onload Event: (https://www.javascripttutorial.net/javascript-dom/javascript-onload/)
+>  -  beforeunload event: (https://www.javascripttutorial.net/javascript-dom/javascript-beforeunload-event/)
+>  -  unload Event: (https://www.javascripttutorial.net/javascript-dom/javascript-unload/)
+>  -  Mouse Events: (https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/)
+>  -  Keyboard Events: (https://www.javascripttutorial.net/javascript-dom/javascript-keyboard-events/)
+>  -  Scroll Events: (https://www.javascripttutorial.net/javascript-dom/javascript-scroll-events/)
+>  -  scrollIntoView: (https://www.javascripttutorial.net/javascript-dom/javascript-scrollintoview/)
+>  -  Focus Events: (https://www.javascripttutorial.net/javascript-dom/javascript-focus-events/)
+>- ***Section 8. Scripting Web Forms***
+>- -  JavaScript Form: (https://www.javascripttutorial.net/javascript-dom/javascript-form/)
+>  -  Radio Button: (https://www.javascripttutorial.net/javascript-dom/javascript-radio-button/)
+>  -  Checkbox: (https://www.javascripttutorial.net/javascript-dom/javascript-checkbox/)
+>  -  select Element: (https://www.javascripttutorial.net/javascript-dom/javascript-select-box/)
+>  -  Dynamically Add & Remove Options: (https://www.javascripttutorial.net/javascript-dom/javascript-add-remove-options/)
+>  -  Removing Items from a Select Element Conditionally: (https://www.javascripttutorial.net/javascript-dom/javascript-remove-items-from-a-select-conditionally/)
+>  -  change Event: (https://www.javascripttutorial.net/javascript-dom/javascript-change-event/)
+>  -  input Event: (https://www.javascripttutorial.net/javascript-dom/javascript-input-event/)
+
