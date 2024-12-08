@@ -80,7 +80,7 @@ function count2(a,c,d,...spisok){ // tātad, trīs punkti un turpmāk izmantojam
 count(1,30,"all");
 count(1,30,"odd");
 count(1,30,"even");
-count2(1,30,"odd",5,11);
+count2(1,30,"odd",5,11,15);
 count2(1,30,"even",2,4,8,16);
 
 
