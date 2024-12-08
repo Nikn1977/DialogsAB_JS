@@ -120,6 +120,11 @@ Ka strdada saitu atveršana
 </br>
 
 **5. 30.10.2024 Programešana-Arrays**
+>- ***JavaScript Array Reference: https://www.w3schools.com/jsref/jsref_obj_array.asp***
+>- ***JavaScript Array Methods: https://www.w3schools.com/js/js_array_methods.asp***
+>- ***JavaScript Array Search: https://www.w3schools.com/js/js_array_search.asp***
+>- ***JavaScript Sorting Arrays: https://www.w3schools.com/js/js_array_sort.asp***
+>- ***JavaScript data types and data structures: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures***
 
 **6. 30.10.2024 Programešana-Arrays, IF, WSwitch, While**
 >- ***JavaScript if, else, and else if: https://www.w3schools.com/js/js_if_else.asp***
