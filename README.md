@@ -123,12 +123,12 @@ Ka strdada saitu atveršana
 
 **7. 06.11.2024 “Pusdienlaika” uzdevumi**
 
-*** “Pusdienlaika” uzdevumi : [[https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html](https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html)]***
-*** “Pusdienlaika” uzdevumi ar Funkcijas palidzibu: [[https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html](https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html)]***
+*** “Pusdienlaika” uzdevumi : [[https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html](https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html)]***
+*** “Pusdienlaika” uzdevumi ar Funkcijas palidzibu: [[https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Function/index.html](https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Function/index.html)]***
 
 **7. 06.11.2024 Programešana-Funkcijas**
 
-
+https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html
 
 
 
