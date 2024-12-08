@@ -124,12 +124,13 @@ Ka strdada saitu atveršana
 **7. 06.11.2024 Programešana-Funkcijas**
 
 **“Pusdienlaika” uzdevumi**
->-  *** “Pusdienlaika” uzdevumi : https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html***
->-  *** “Pusdienlaika” uzdevumi ar Funkcijas palidzibu: https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html***
+>-  ***“Pusdienlaika” uzdevumi: https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html***
+>-  ***“Pusdienlaika” uzdevumi ar Funkcijas palidzibu: https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html***
 
 **8. 11.11.2024 Programešana-Funkcijas**
 
 **10. 25.11.2024 JavaScript Display Objects and Object Constructors **
->- *** JavaScript Display Objects: https://www.w3schools.com/js/js_object_display.asp***
->- *** JavaScript Object Constructors : https://www.w3schools.com/js/js_object_constructors.asp***
+>- ***JavaScript Display Objects: https://www.w3schools.com/js/js_object_display.asp***
+>- ***JavaScript Object Constructors: https://www.w3schools.com/js/js_object_constructors.asp***
 
+>- ***So, how does the Internet work? : https://www.linkedin.com/pulse/20141113001150-27608683-so-how-does-the-internet-work***
