@@ -128,6 +128,12 @@ Ka strdada saitu atveršana
 >-  ***“Pusdienlaika” uzdevumi ar Funkcijas palidzibu: https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html***
 
 **8. 11.11.2024 Programešana-Funkcijas**
+>- ***HTML <input> Tag: https://www.w3schools.com/tags/tag_input.asp***
+>- ***Functions — reusable blocks of code: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions***
+>- ***Getting the result from a fetch function in javascript: https://stackoverflow.com/questions/67248064/getting-the-result-from-a-fetch-function-in-javascript***
+>- ***await is only valid in async function: https://stackoverflow.com/questions/49432579/await-is-only-valid-in-async-function***
+>- ***Big List of Free and Open Public APIs: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/***
+>- ***Array Sorting - Practice Problems: https://www.geeksforgeeks.org/sorting-in-array/***
 
 **10. 25.11.2024 JavaScript Display Objects and Object Constructors**
 >- ***JavaScript Display Objects: https://www.w3schools.com/js/js_object_display.asp***
@@ -140,35 +146,39 @@ Ka strdada saitu atveršana
 **12. 02.12.2024 JavaScript DOM**
 >- ***JavaScript DOM: https://www.javascripttutorial.net/javascript-dom/***
 >- ***Section 1. Getting started: https://www.javascripttutorial.net/javascript-dom/document-object-model-in-javascript/***
->- ***Section 2. Selecting elements by id: https://www.javascripttutorial.net/javascript-dom/javascript-getelementbyid/***
->- ***Section 2. Selecting elements by name: https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbyname/***
->- ***Section 2. Selecting elements by a tag name: https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbytagname/***
->- ***Section 2. Selecting elements by class name: https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbyclassname/***
->- ***Section 2. Selecting elements by CSS selection: https://www.javascripttutorial.net/javascript-dom/javascript-queryselector/***
+>- ***Section 2. Selecting elements***
+>- - Selecting elements by id: https://www.javascripttutorial.net/javascript-dom/javascript-getelementbyid)
+>- - Selecting elements by name: (https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbyname/)
+>- - Selecting elements by a tag name: (https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbytagname/)
+>- - Selecting elements by class name: (https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbyclassname/)
+>- - Selecting elements by CSS selection: (https://www.javascripttutorial.net/javascript-dom/javascript-queryselector/)
 
 **13. 04.12.2024 JavaScript DOM**
->- ***Section 3. Traversing elements, parent: https://www.javascripttutorial.net/javascript-dom/javascript-get-parent-element-parentnode/***
->- ***Section 3. Traversing elements, child: https://www.javascripttutorial.net/javascript-dom/javascript-get-child-element/***
->- ***Section 3. Traversing elements, an element: https://www.javascripttutorial.net/javascript-dom/javascript-siblings/***
+>- ***Section 3. Traversing elements***
+>- - Section 3. Traversing elements, parent: https://www.javascripttutorial.net/javascript-dom/javascript-get-parent-element-parentnode/)
+>- - Section 3. Traversing elements, child: https://www.javascripttutorial.net/javascript-dom/javascript-get-child-element/)
+>- - Section 3. Traversing elements, an element: https://www.javascripttutorial.net/javascript-dom/javascript-siblings/)
+
 >- ***Section 4. Manipulating elements***
 >- - createElemen(): (https://www.javascripttutorial.net/javascript-dom/javascript-createelement/)
 >- - appendChild(): (https://www.javascripttutorial.net/javascript-dom/javascript-appendchild/)
->  - textContent: (https://www.javascripttutorial.net/javascript-dom/javascript-textcontent/)
->  - innerHTML: (https://www.javascripttutorial.net/javascript-dom/javascript-innerhtml/)
->  - DocumentFragment: (https://www.javascripttutorial.net/javascript-dom/javascript-documentfragment/)
->  - after(): (https://www.javascripttutorial.net/javascript-dom/javascript-after/)
->  - append(): (https://www.javascripttutorial.net/javascript-dom/javascript-append/)
->  - prepend(): (https://www.javascripttutorial.net/javascript-dom/javascript-prepend/)
->  - replaceChild(): (https://www.javascripttutorial.net/javascript-dom/javascript-replacechild/)
->  - cloneNode(): (https://www.javascripttutorial.net/javascript-dom/javascript-clonenode/)
->  - removeChild(): (https://www.javascripttutorial.net/javascript-dom/javascript-removechild/)
->  - insertBefore: (https://www.javascripttutorial.net/javascript-dom/javascript-insertbefore/)
->  - insertAfter: (https://www.javascripttutorial.net/javascript-dom/javascript-insertafter/)
+>- - textContent: (https://www.javascripttutorial.net/javascript-dom/javascript-textcontent/)
+>- - innerHTML: (https://www.javascripttutorial.net/javascript-dom/javascript-innerhtml/)
+>- - DocumentFragment: (https://www.javascripttutorial.net/javascript-dom/javascript-documentfragment/)
+>- - after(): (https://www.javascripttutorial.net/javascript-dom/javascript-after/)
+>- - append(): (https://www.javascripttutorial.net/javascript-dom/javascript-append/)
+>- - prepend(): (https://www.javascripttutorial.net/javascript-dom/javascript-prepend/)
+>- - replaceChild(): (https://www.javascripttutorial.net/javascript-dom/javascript-replacechild/)
+>- - cloneNode(): (https://www.javascripttutorial.net/javascript-dom/javascript-clonenode/)
+>- - removeChild(): (https://www.javascripttutorial.net/javascript-dom/javascript-removechild/)
+>- - insertBefore: (https://www.javascripttutorial.net/javascript-dom/javascript-insertbefore/)
+>- - insertAfter: (https://www.javascripttutorial.net/javascript-dom/javascript-insertafter/)
+
 >- ***Section 5. Working with Attributes***
->  - setAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-setattribute/)
->  - getAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-getattribute/)
->  - removeAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-removeattribute/)
->  - hasAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-hasattribute/)
+>- - setAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-setattribute/)
+>- - getAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-getattribute/)
+>- - removeAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-removeattribute/)
+>- - hasAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-hasattribute/)
 
 
 > **14. 09.12.2024 JavaScript DOM**   
