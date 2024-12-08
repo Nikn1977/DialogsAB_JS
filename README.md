@@ -122,6 +122,7 @@ Ka strdada saitu atveršana
 **6. 30.10.2024 Programešana-Arrays**
 
 **7. 06.11.2024 “Pusdienlaika” uzdevumi**
+<a href="https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html" target="_blank">Hello, google!</a>
 
 *** “Pusdienlaika” uzdevumi : [[https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html](https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html)]***
 
