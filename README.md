@@ -122,8 +122,17 @@ Ka strdada saitu atveršana
 **5. 30.10.2024 Programešana-Arrays**
 
 **6. 30.10.2024 Programešana-Arrays, IF, WSwitch, While**
+>- ***JavaScript if, else, and else if: https://www.w3schools.com/js/js_if_else.asp***
+>- ***JavaScript Switch Statement: https://www.w3schools.com/js/js_switch.asp***
+>- ***JavaScript While Loop: https://www.w3schools.com/js/js_loop_while.asp***
+>- ***JavaScript if, else, and else if: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else***
+>- ***JavaScript Switch Statement: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch***
+>- ***JavaScript While Loop: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while***
+
 
 **7. 06.11.2024 Programešana-Funkcijas**
+>- ***JavaScript Functions: https://www.w3schools.com/js/js_functions.asp***
+>- ***Functions: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions***
 
 **7a. “Pusdienlaika” uzdevumi**
 <br>
