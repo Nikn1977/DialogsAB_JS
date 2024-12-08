@@ -125,6 +125,8 @@ Ka strdada saitu atveršana
 >- ***JavaScript Array Search: https://www.w3schools.com/js/js_array_search.asp***
 >- ***JavaScript Sorting Arrays: https://www.w3schools.com/js/js_array_sort.asp***
 >- ***JavaScript data types and data structures: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures***
+</br>
+</br>
 
 **6. 30.10.2024 Programešana-Arrays, IF, WSwitch, While**
 >- ***JavaScript if, else, and else if: https://www.w3schools.com/js/js_if_else.asp***
@@ -133,17 +135,22 @@ Ka strdada saitu atveršana
 >- ***JavaScript Switch Statement: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch***
 >- ***JavaScript While Loop: https://www.w3schools.com/js/js_loop_while.asp***
 >- ***JavaScript While Loop: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while***
-
+</br>
+</br>
 
 **7. 06.11.2024 Programešana-Funkcijas**
 >- ***JavaScript Functions: https://www.w3schools.com/js/js_functions.asp***
 >- ***Functions: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions***
+</br>
+</br>
 
 **7a. “Pusdienlaika” uzdevumi**
 <br>
 [***Pusdienlaika” uzdevumi***](https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html)
 <br>
 [***Pusdienlaika” uzdevumi ar Funkcijas palidzibu***](https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html)
+</br>
+</br>
 
 **8. 11.11.2024 Programešana-Funkcijas**
 >- ***HTML <input> Tag: https://www.w3schools.com/tags/tag_input.asp***
@@ -152,14 +159,20 @@ Ka strdada saitu atveršana
 >- ***await is only valid in async function: https://stackoverflow.com/questions/49432579/await-is-only-valid-in-async-function***
 >- ***Big List of Free and Open Public APIs: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/***
 >- ***Array Sorting - Practice Problems: https://www.geeksforgeeks.org/sorting-in-array/***
+</br>
+</br>
 
 **10. 25.11.2024 JavaScript Display Objects and Object Constructors**
 >- ***JavaScript Display Objects: https://www.w3schools.com/js/js_object_display.asp***
 >- ***JavaScript Object Constructors: https://www.w3schools.com/js/js_object_constructors.asp***
+</br>
+</br>
 
 **11. 27.11.2024 The window object is global, JavaScript BOM**
 >- ***The window objects: https://www.javascripttutorial.net/javascript-bom/javascript-window/***
 >- ***JavaScript BOM: https://www.javascripttutorial.net/javascript-bom/***
+</br>
+</br>
 
 **12. 02.12.2024 JavaScript DOM**
 >- ***JavaScript DOM: https://www.javascripttutorial.net/javascript-dom/***
@@ -170,6 +183,8 @@ Ka strdada saitu atveršana
 >- - Selecting elements by a tag name: (https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbytagname/)
 >- - Selecting elements by class name: (https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbyclassname/)
 >- - Selecting elements by CSS selection: (https://www.javascripttutorial.net/javascript-dom/javascript-queryselector/)
+</br>
+</br>
 
 **13. 04.12.2024 JavaScript DOM**
 >- ***Section 3. Traversing elements***
@@ -197,7 +212,8 @@ Ka strdada saitu atveršana
 >- - getAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-getattribute/)
 >- - removeAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-removeattribute/)
 >- - hasAttribute(): (https://www.javascripttutorial.net/javascript-dom/javascript-hasattribute/)
-
+</br>
+</br>
 
 > **14. 09.12.2024 JavaScript DOM**   
 >- ***Section 6. Manipulating Element’s Styles***
