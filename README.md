@@ -178,7 +178,7 @@ Ka strdada saitu atveršana
 >  -  classList property: (https://www.javascripttutorial.net/javascript-dom/javascript-classlist/)
 >  -  Width and Height of an Element: (https://www.javascripttutorial.net/javascript-dom/javascript-width-height/)
 >- ***Section 7. Working with Events***
->- -  JavaScript events: (https://www.javascripttutorial.net/javascript-dom/javascript-events/)
+>  -  JavaScript events: (https://www.javascripttutorial.net/javascript-dom/javascript-events/)
 >  -  Handling Events: (https://www.javascripttutorial.net/javascript-dom/handling-events-in-javascript/)
 >  -  Load Events: (https://www.javascripttutorial.net/javascript-dom/javascript-page-load-events/)
 >  -  onload Event: (https://www.javascripttutorial.net/javascript-dom/javascript-onload/)
@@ -190,7 +190,7 @@ Ka strdada saitu atveršana
 >  -  scrollIntoView: (https://www.javascripttutorial.net/javascript-dom/javascript-scrollintoview/)
 >  -  Focus Events: (https://www.javascripttutorial.net/javascript-dom/javascript-focus-events/)
 >- ***Section 8. Scripting Web Forms***
->- -  JavaScript Form: (https://www.javascripttutorial.net/javascript-dom/javascript-form/)
+>  -  JavaScript Form: (https://www.javascripttutorial.net/javascript-dom/javascript-form/)
 >  -  Radio Button: (https://www.javascripttutorial.net/javascript-dom/javascript-radio-button/)
 >  -  Checkbox: (https://www.javascripttutorial.net/javascript-dom/javascript-checkbox/)
 >  -  select Element: (https://www.javascripttutorial.net/javascript-dom/javascript-select-box/)
