@@ -147,7 +147,6 @@ Ka strdada saitu atveršana
 **7a. “Pusdienlaika” uzdevumi**
 <br>
 >- ***Bez funkcijas: https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While/index.html***
-<br>
 >- ***Ar Funkcijas palidzibu: https://htmlpreview.github.io/?https://github.com/Nikn1977/DialogsAB_JS/blob/main/MD2-Uzdevums2-If-While-Functions/index.html***
 </br>
 </br>
