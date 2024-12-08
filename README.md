@@ -129,8 +129,14 @@ Ka strdada saitu atveršana
 
 **8. 11.11.2024 Programešana-Funkcijas**
 
-**10. 25.11.2024 JavaScript Display Objects and Object Constructors **
+**10. 25.11.2024 JavaScript Display Objects and Object Constructors**
 >- ***JavaScript Display Objects: https://www.w3schools.com/js/js_object_display.asp***
 >- ***JavaScript Object Constructors: https://www.w3schools.com/js/js_object_constructors.asp***
 
->- ***So, how does the Internet work? : https://www.linkedin.com/pulse/20141113001150-27608683-so-how-does-the-internet-work***
+**11. 27.11.2024 The window object is global, JavaScript BOM**
+>- ***The window objects: https://www.javascripttutorial.net/javascript-bom/javascript-window/***
+>- ***JavaScript BOM: https://www.javascripttutorial.net/javascript-bom/***
+
+**12. 02.12.2024 JavaScript Display Objects and Object Constructors**
+
+**13. 04.12.2024 JavaScript Display Objects and Object Constructors**
