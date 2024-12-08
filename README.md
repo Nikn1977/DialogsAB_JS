@@ -137,6 +137,17 @@ Ka strdada saitu atveršana
 >- ***The window objects: https://www.javascripttutorial.net/javascript-bom/javascript-window/***
 >- ***JavaScript BOM: https://www.javascripttutorial.net/javascript-bom/***
 
-**12. 02.12.2024 JavaScript Display Objects and Object Constructors**
+**12. 02.12.2024 JavaScript DOM**
+>- ***JavaScript DOM: https://www.javascripttutorial.net/javascript-dom/***
+>- ***Section 1. Getting started: https://www.javascripttutorial.net/javascript-dom/document-object-model-in-javascript/***
+>- ***Section 2. Selecting elements by id: https://www.javascripttutorial.net/javascript-dom/javascript-getelementbyid/***
+>- ***Section 2. Selecting elements by name: https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbyname/***
+>- ***Section 2. Selecting elements by a tag name: https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbytagname/***
+>- ***Section 2. Selecting elements by class name: https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbyclassname/***
+>- ***Section 2. Selecting elements by CSS selection: https://www.javascripttutorial.net/javascript-dom/javascript-queryselector/***
 
-**13. 04.12.2024 JavaScript Display Objects and Object Constructors**
+**13. 04.12.2024 JavaScript DOM**
+>- ***Section 3. Traversing elements, parent: https://www.javascripttutorial.net/javascript-dom/javascript-get-parent-element-parentnode/***
+>- ***Section 3. Traversing elements, child: https://www.javascripttutorial.net/javascript-dom/javascript-get-child-element/***
+>- ***Section 3. Traversing elements, an element: https://www.javascripttutorial.net/javascript-dom/javascript-siblings/***
+>- ***Section 4. Manipulating elements***
